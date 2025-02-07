@@ -1,39 +1,39 @@
 {
   "id": "I3441D638",
   "title": {
-    "en": "The Ornament of Clear Light, A Profound and Extensive Commentary on the Introduction to the Middle Way",
-    "bo": "དབུ་མ་ལ་འཇུག་པའི་ཊི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+    "bo": "དབུ་མ་ལ་འཇུག་པའི་ཊི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།",
+    "en": "The Ornament of Clear Light, A Profound and Extensive Commentary on the Introduction to the Middle Way"
   },
   "author": {
-    "en": "None",
-    "bo": "ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོ།"
+    "bo": "ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོ།",
+    "en": "None"
   },
-  "imported": "2025-02-07T05:55:18.292251",
+  "imported": "2025-02-07T14:59:42.654367",
   "source": "https://library.bdrc.io/show/bdr:WA8LS76148?tabs=bdr:MW8LS76148,bdr:W8LS76148",
   "toolkit_version": "0.0.1",
   "parser": "DocxNumberListCommentaryParser",
   "initial_creation_type": "google_docx",
   "language": "bo",
   "source_metadata": {
+    "document_id": "1dwPpIPIWm4R0Sfo259z6YPUEv55YT1X0kjLSGSCn_y8",
+    "commentary_alignments": [
+      {
+        "source": "IB9B8CBF0/layers/6E3D/Tibetan_Segment-AC7C.json",
+        "target": "I3441D638/layers/AD06/Meaning_Segment-D074.json"
+      }
+    ],
+    "long_title": {
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་ཊི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།",
+      "en": "The Ornament of Clear Light, A Profound and Extensive Commentary on the Introduction to the Middle Way"
+    },
     "presentation": {
       "en": ""
     },
     "usage_title": {
-      "en": "The Ornament of Clear Light, A Profound and Extensive Commentary on the Introduction to the Middle Way",
-      "bo": "དབུ་མ་ལ་འཇུག་པའི་ཊི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་ཊི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།",
+      "en": "The Ornament of Clear Light, A Profound and Extensive Commentary on the Introduction to the Middle Way"
     },
-    "long_title": {
-      "en": "The Ornament of Clear Light, A Profound and Extensive Commentary on the Introduction to the Middle Way",
-      "bo": "དབུ་མ་ལ་འཇུག་པའི་ཊི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
-    },
-    "commentary_of": "IB9B8CBF0",
-    "document_id": "1dwPpIPIWm4R0Sfo259z6YPUEv55YT1X0kjLSGSCn_y8",
-    "commentary_alignments": [
-      {
-        "source": "IB9B8CBF0/layers/2E99/Tibetan_Segment-A8CE.json",
-        "target": "I3441D638/layers/1407/Meaning_Segment-7A21.json"
-      }
-    ]
+    "commentary_of": "IB9B8CBF0"
   },
   "bases": [],
   "copyright": {

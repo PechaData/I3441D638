@@ -1,0 +1,20 @@
+{
+  "@type": "AnnotationStore",
+  "@id": "I3441D638",
+  "resources": [
+    {
+      "@type": "TextResource",
+      "@id": "AD06",
+      "@include": "../../base/AD06.txt"
+    }
+  ],
+  "annotationsets": [
+    {
+      "@type": "AnnotationDataSet",
+      "@id": "Structure_Annotation",
+      "keys": [],
+      "data": []
+    }
+  ],
+  "annotations": []
+}
