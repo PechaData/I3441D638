@@ -1,0 +1,45 @@
+{
+  "id": "I3441D638",
+  "title": {
+    "en": "The Ornament of Clear Light, A Profound and Extensive Commentary on the Introduction to the Middle Way",
+    "bo": "དབུ་མ་ལ་འཇུག་པའི་ཊི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+  },
+  "author": {
+    "en": "None",
+    "bo": "ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོ།"
+  },
+  "imported": "2025-02-07T05:55:18.292251",
+  "source": "https://library.bdrc.io/show/bdr:WA8LS76148?tabs=bdr:MW8LS76148,bdr:W8LS76148",
+  "toolkit_version": "0.0.1",
+  "parser": "DocxNumberListCommentaryParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "presentation": {
+      "en": ""
+    },
+    "usage_title": {
+      "en": "The Ornament of Clear Light, A Profound and Extensive Commentary on the Introduction to the Middle Way",
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་ཊི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+    },
+    "long_title": {
+      "en": "The Ornament of Clear Light, A Profound and Extensive Commentary on the Introduction to the Middle Way",
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་ཊི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+    },
+    "commentary_of": "IB9B8CBF0",
+    "document_id": "1dwPpIPIWm4R0Sfo259z6YPUEv55YT1X0kjLSGSCn_y8",
+    "commentary_alignments": [
+      {
+        "source": "IB9B8CBF0/layers/2E99/Tibetan_Segment-A8CE.json",
+        "target": "I3441D638/layers/1407/Meaning_Segment-7A21.json"
+      }
+    ]
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
